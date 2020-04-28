@@ -24,6 +24,5 @@ public class Block extends Rectangle {
 					* Tile.tileSize, id[0] * Tile.tileSize + Tile.tileSize,
 					id[1] * Tile.tileSize + Tile.tileSize, null);
 		}
-
 	}
 }
