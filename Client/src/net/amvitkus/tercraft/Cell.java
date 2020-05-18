@@ -2,7 +2,7 @@ package net.amvitkus.drugcraft;
 
 import java.awt.*;
 
-//Class for cells in inventory
+//Class for cells in inventory, similar to standard minecraft.
 public class Cell extends Rectangle {
 
 	private static final long serialVersionUID = 1L;
