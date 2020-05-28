@@ -27,6 +27,7 @@ public class Mob extends DoubleRectangle {
 
 	}
 
+	//Tick for time going by
 	public void tick() {
 		if (!isJumping
 				&& !isCollidingWithBlock(new Point((int) x + 2,
